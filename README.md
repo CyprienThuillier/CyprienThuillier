@@ -1,57 +1,38 @@
-
-<h2><img src="https://www.pngall.com/wp-content/uploads/15/Black-Hat-PNG-Image.png" width="25"/> I'm Cyprien - cybersecurity learner</h2>
-
-<p align="center">Langages & Tools</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30" alt="C" title="C" style="margin-right:20px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" alt="Python" title="Python" style="margin-right:20px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" alt="HTML5" title="HTML5" style="margin-right:20px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" alt="CSS" title="CSS" style="margin-right:20px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" alt="Git" title="Git" style="margin-right:20px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" alt="VScode" title="VScode" style="margin-right:20px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" alt="Linux" title="Linux" style="margin-right:20px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" alt="MySQL" title="MySQL" style="margin-right:20px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="35" alt="Docker" title="Docker"/>
+<h2><img src="https://www.pngall.com/wp-content/uploads/15/Black-Hat-PNG-Image.png" width="25"/> I'm Cyprien - Cybersecurity Learner</h2>
+<p>
+  Hello ! I'm Cyprien, a first-year engineering student, passionate about cybersecurity. 
+  I'm constantly learning and exploring new challenges in the field, from web pentesting to reverse engineering and physical security. 
+  I'm currently looking for an apprenticeship in cybersecurity for the 2027-2028 academic year.
 </p>
-
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Stats<p>
-  
-<p align="center">
-  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CyprienThuillier&show_icons=true&theme=tokyonight&cache_seconds=1800
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CyprienThuillier&show_icons=true&cache_seconds=1800"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img  src="https://github-readme-stats.vercel.app/api?username=CyprienThuillier&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</picture>
-
+<h3>🚀 What I'm currently working on:</h3>
+<ul>
+  <li>Deepening my skills in web pentesting on platforms like Root-Me and PortSwigger.</li>
+  <li>Developing personal security tools and projects.</li>
+  <li>Exploring hardware hacking and physical security with Arduino.</li>
+</ul>
+<h3>🛠️ Languages & Tools</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" alt="C" title="C" style="margin-right:20px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python" title="Python" style="margin-right:20px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" alt="PHP" title="PHP" style="margin-right:20px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="30" alt="Playwright" title="Playwright" style="margin-right:20px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" alt="Git" title="Git" style="margin-right:20px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" alt="VSCode" title="VSCode" style="margin-right:20px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" alt="Linux" title="Linux" style="margin-right:20px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" alt="Postgresql" title="Postgresql" style="margin-right:20px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30" alt="Docker" title="Docker"/>
 </p>
-
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Contact</p>
-
-<p align="center">
-  <a href="www.linkedin.com/in/cyprien-thuillier"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"/></a>
-  &#8287;&#8287;
-  <a href="https://www.root-me.org/cyprien-thlr?lang=fr"><img width="32px" alt="RootMe" title="RootMe" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OOSXF_TxDViqk9p3u5VheAhfScxwMYlAmA&s"></a>
-  &#8287;&#8287;
-  <a href="mailto:cyprien.thuillier@proton.me"><img width="32px" alt="Mail" title="Mail" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
-
+<h3>🤝 Connect with me</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/cyprien-thuillier"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NTIgMy4zNy0xLjg1MiAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTRWOWgzLjU2NXYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.root-me.org/cyprien-thlr?lang=fr"><img src="https://img.shields.io/badge/Root--Me-1a1a2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyYTkgOSAwIDEgMCAwIDE4QTkgOSAwIDAgMCAxMiAyek05IDE2di0xYzAtLjU1LjQ1LTEgMS0xaDRjLjU1IDAgMSAuNDUgMSAxdjFIOXptNy43OC02LjIyQTUgNSAwIDAgMSAxMiAxNWE1IDUgMCAwIDEtNC43OC0zLjIyIDEgMSAwIDAgMSAuMTYtLjk4bDEtMS4yNUExIDEgMCAwIDEgOS4xNSA5LjJsLjg5Ljg5YTIuNSAyLjUgMCAwIDAgMy45MiAwbC44OS0uODlhMSAxIDAgMCAxIC43Ny0uMjkgMSAxIDAgMCAxIC43Mi4zNmwxIDEuMjVhMSAxIDAgMCAxIC40NC43NXYuMDFhMSAxIDAgMCAxLS4wNC4yMXoiLz48L3N2Zz4=&logoColor=white" alt="Root-Me"/></a>
+<a href="mailto:cyprien.thuillier@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/></a>
 </p>

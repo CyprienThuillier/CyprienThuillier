@@ -2,37 +2,50 @@
   <img src="banner.png" alt="Banner > whoami_" width="100%">
 </p>
 
+<!-- WIDGET 1 À GAUCHE DU TEXTE -->
+<img src="widget1.jpg" align="left" width="200" alt="Widget 1">
+
 <p>
   Hello ! I'm Cyprien, a first-year engineering student, passionate about cybersecurity. 
   I'm constantly learning and exploring new challenges in the field, from web pentesting to reverse engineering and physical security. 
   I'm currently looking for an apprenticeship in cybersecurity for the 2027-2028 academic year.
 </p>
+
+<br clear="both"/>
+
+<!-- WIDGET 2 À DROITE DE LA LISTE -->
+<img src="widget2.jpg" align="right" width="200" alt="Widget 2">
+
 <h3>🚀 What I'm currently working on:</h3>
 <ul>
   <li>Deepening my skills in web pentesting on platforms like Root-Me and PortSwigger.</li>
-  <li>Developing personal security tools and projects.</li>
+  <li>Developing personal security tools and projects (like my Secure File Transfer App).</li>
   <li>Exploring hardware hacking and physical security with Arduino.</li>
 </ul>
+
+<br clear="both"/>
+
 <h3>🛠️ Languages & Tools</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" alt="C" title="C" style="margin-right:20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" alt="C" title="C" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python" title="Python" style="margin-right:20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" title="Python" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" alt="PHP" title="PHP" style="margin-right:20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" alt="PHP" title="PHP" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="30" alt="Playwright" title="Playwright" style="margin-right:20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="45" alt="Playwright" title="Playwright" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" alt="Git" title="Git" style="margin-right:20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" title="Git" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" alt="VSCode" title="VSCode" style="margin-right:20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" alt="VSCode" title="VSCode" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" alt="Linux" title="Linux" style="margin-right:20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux" title="Linux" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" alt="Postgresql" title="Postgresql" style="margin-right:20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="Postgresql" title="Postgresql" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="45" alt="Docker" title="Docker"/>
 </p>
+
 <h3>🤝 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cyprien-thuillier"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NTIgMy4zNy0xLjg1MiAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTRWOWgzLjU2NXYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn"/></a>

@@ -6,9 +6,9 @@
 <img src="widget1.jpg" align="left" width="200" alt="Widget 1">
 
 <p>
-  Hello ! I'm Cyprien, a first-year engineering student, passionate about cybersecurity. 
-  I'm constantly learning and exploring new challenges in the field, from web pentesting to reverse engineering and physical security. 
-  I'm currently looking for an apprenticeship in cybersecurity for the 2027-2028 academic year.
+  Hello ! I'm Cyprien, a first-year engineering student with a deep passion for cybersecurity. I'm constantly learning and exploring new challenges across the field, ranging from web pentesting to reverse engineering and physical security. 
+  <br><br>
+  I also enjoy developing my own security-focused tools—such as a recent secure, token-based file transfer web app built with Python and Flask. I actively train my offensive and analytical skills on platforms like Root-Me and PortSwigger. I am currently seeking a cybersecurity apprenticeship for the 2027-2028 academic year to bring my technical dedication to a professional team.
 </p>
 
 <br clear="both"/>
@@ -19,7 +19,8 @@
 <h3>🚀 What I'm currently working on:</h3>
 <ul>
   <li>Deepening my skills in web pentesting on platforms like Root-Me and PortSwigger.</li>
-  <li>Developing personal security tools and projects (like my Secure File Transfer App).</li>
+  <li>Developing personal security tools and projects.</li>
+  <li>Creating automation tools for B2B services (like my open-data extractor project).</li>
   <li>Exploring hardware hacking and physical security with Arduino.</li>
 </ul>
 

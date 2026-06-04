@@ -8,7 +8,7 @@
 <p>
   Hello ! I'm Cyprien, a first-year engineering student with a deep passion for cybersecurity. I'm constantly learning and exploring new challenges across the field, ranging from web pentesting to reverse engineering and physical security. 
   <br><br>
-  I also enjoy developing my own security-focused tools—such as a recent secure, token-based file transfer web app built with Python and Flask. I actively train my offensive and analytical skills on platforms like Root-Me and PortSwigger. I am currently seeking a cybersecurity apprenticeship for the 2027-2028 academic year to bring my technical dedication to a professional team.
+  I also enjoy developing my own security-focused tools such as a recent secure, token-based file transfer web app built with Python and Flask. I actively train my offensive and analytical skills on platforms like Root-Me and PortSwigger. I am currently seeking a cybersecurity apprenticeship for the 2027-2028 academic year to bring my technical dedication to a professional team.
 </p>
 
 <br clear="both"/>

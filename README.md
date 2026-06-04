@@ -1,4 +1,7 @@
-<h2><img src="https://www.pngall.com/wp-content/uploads/15/Black-Hat-PNG-Image.png" width="25"/> I'm Cyprien - Cybersecurity Learner</h2>
+<p align="center">
+  <img src="banner.png" alt="Banner > whoami_" width="100%">
+</p>
+
 <p>
   Hello ! I'm Cyprien, a first-year engineering student, passionate about cybersecurity. 
   I'm constantly learning and exploring new challenges in the field, from web pentesting to reverse engineering and physical security. 

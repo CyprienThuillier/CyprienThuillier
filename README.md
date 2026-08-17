@@ -6,7 +6,7 @@
 <img src="widget1.jpg" align="left" width="200" alt="Widget 1">
 
 <p>
-  Hello ! I'm Cyprien, a first-year engineering student with a deep passion for cybersecurity. I'm constantly learning and exploring new challenges across the field, ranging from web pentesting to reverse engineering and physical security. 
+  Hello ! I'm Cyprien, an engineering student with a deep passion for cybersecurity. I'm constantly learning and exploring new challenges across the field, ranging from web pentesting to reverse engineering and physical security. 
   <br><br>
 ・ I enjoy developing my own security-focused tools such as a recent secure file transfer web app
   <br>
